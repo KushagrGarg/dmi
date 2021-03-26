@@ -6,4 +6,5 @@
 > IIT2018160 - Hitesh Kumar \
 > IIT2018161 - Aditya Bhati \
 > IIT2018166 - Akshit Agrawal \ 
-> IIT2018171 - Sushant Singh
+> IIT2018171 - Sushant Singh \
+> 
